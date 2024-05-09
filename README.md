@@ -1,17 +1,13 @@
-Ciao! 👋
-Sono uno studente di informatica appassionato di data science e sviluppo Java. Benvenuti nel mio profilo GitHub!
+<h1 align="center">Hi 👋, I'm Fatma</h1>
+<h3 align="center">A passionate data science/ java full stack developer from Italy</h3>
 
-🔭 Attualmente sto lavorando su diversi progetti legati all'analisi dei dati e allo sviluppo di applicazioni Java.
+- 🌱 I’m currently learning **Java**
 
-🌱 Sto continuamente approfondendo le mie conoscenze in data science, esplorando nuovi algoritmi e strumenti per l'analisi dei dati.
+- 📫 How to reach me **arafatma2003@gmail.com**
 
-👯 Sono sempre aperto a collaborazioni interessanti nel campo della data science e dello sviluppo Java. Se hai un progetto interessante in mente, non esitare a contattarmi!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-💬 Se hai domande su data science, sviluppo Java o qualunque altra cosa, non esitare a chiedere! Farò del mio meglio per aiutarti.
-
-📫 Puoi contattarmi tramite email all'indirizzo tuo.indirizzo@email.com.
-
-😄 Pronomi: [Inserisci qui i tuoi pronomi]
-
-⚡ Curiosità: Amo risolvere problemi complessi e trovare soluzioni creative!
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
